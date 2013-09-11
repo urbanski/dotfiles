@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/srv/www/www.shakingrock.com/public_html'
+let g:netrw_dirhist_2='/etc/nginx/sites-enabled'
+let g:netrw_dirhist_3='/opt/v6/scripts/quada-discovery'
